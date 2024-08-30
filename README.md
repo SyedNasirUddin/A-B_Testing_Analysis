@@ -1,3 +1,4 @@
+# A/B Testing
 This repository contains a Python script that simulates binomial distributions for two groups, performs a statistical test to compare them, and visualizes the results using plots.
 
 Description
@@ -80,9 +81,9 @@ plt.ylabel('Density')
 plt.title('Distribution of Group A and Group B')
 plt.show()
 
-License
+# License
 This project is licensed under the MIT License 
 
-Contributing
+# Contributing
 Feel free to fork the repository and submit pull requests. For any questions or suggestions, open an issue or contact the maintainer.
 
